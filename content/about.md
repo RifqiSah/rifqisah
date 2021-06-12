@@ -23,7 +23,7 @@ All my open-source projects are available on [GitHub](https://github.com/rifqisa
    - Storage 1: [Patriot P200 512GB](https://info.patriotmemory.com/patriot-p200-solid-state-drive)
    - Storage 2: WDC WD20EZAZ-00GGJB0 2TB
    - GPU: [NVIDIA GeForce GTX 1660](https://www.nvidia.com/en-us/geforce/graphics-cards/gtx-1660-ti/)
-   - PSU: N/A
+   - PSU: [FSP HV PRO 650W](https://www.fsplifestyle.com/PROP203004469/)
    - Case: [Enlight Flash White Edition](https://enlight-indonesia.com/product/enlight-flash-white-edition/)
 - Hosting: [Jagoan Hosting](https://jagoanhosting.com/)
 - Editor: [Visual Studio Code](https://code.visualstudio.com/)
