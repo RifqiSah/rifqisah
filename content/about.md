@@ -10,7 +10,7 @@ Hey, I’m Rifqi, a polyglot software engineer, software architect, open source 
 
 I aim to create a beautiful corner of the web free of ads, sponsored posts, newsletter pop-ups, affiliate links, and the rest of the annoying noise we're so accustomed to seeing on the internet these days.
 
-You can contact me by email at [me@rifqisah.com](mailto:me@rifqisah.com) to say hi! I always appreciate meeting new people. (Note: I don't do affiliates or guest posts so those requests will ignored.)
+You can contact me by email at [rifqi.sah@gmail.com](mailto:rifqi.sah@gmail.com) to say hi! I always appreciate meeting new people. (Note: I don't do affiliates or guest posts so those requests will ignored.)
 
 ## Open Source Projects
 All my open-source projects are available on [GitHub](https://github.com/rifqisah). A few notable favorites are Avansi, an Aisha, and an SIKBK.
