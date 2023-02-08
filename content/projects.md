@@ -3,8 +3,11 @@ title = "Projects"
 slug = "projects"
 +++
 
+### SmileLOYALTY
+`Nov 2022 - Now` - SmileLOYALTY provides a solution to consolidate all of Loyalty services into a single platform with configurable business functionalities, ease of maintenance and faster time to market, and up-to-date technology. [Demo](#).
+
 ### KreditPro
-`Aug 2020 - Present` - KreditPro is Financial Technology company based in Indonesia, with main purpose to provide loan using peer-to-peer lending mechanism. It aims to bridge lender and borrower through innovative and safe platform without the intermediaries of banks and other financial institutions. [Demo](https://kreditpro.id).
+`Aug 2020 - Nov 2022` - KreditPro is Financial Technology company based in Indonesia, with main purpose to provide loan using peer-to-peer lending mechanism. It aims to bridge lender and borrower through innovative and safe platform without the intermediaries of banks and other financial institutions. [Demo](https://kreditpro.id).
 
 ### SocmedPay
 `Jun 2020 - Feb 2021` - SocmedPay is payment platform with e-money integration method, which can be use for transaction using social media (Facebook, Instagram, and Twitter) easily and comfortably. [Demo](https://socmedpay.id).
