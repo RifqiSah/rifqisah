@@ -25,6 +25,15 @@ All my open-source projects are available on [GitHub](https://github.com/rifqisa
    - GPU: [NVIDIA GeForce GTX 1660](https://www.nvidia.com/en-us/geforce/graphics-cards/gtx-1660-ti/)
    - PSU: [FSP HV PRO 650W](https://www.fsplifestyle.com/PROP203004469/)
    - Case: [Enlight Flash White Edition](https://enlight-indonesia.com/product/enlight-flash-white-edition/)
+- DIY Server PC 😊:
+   - CPU: [Intel(R) Core(TM)2 Duo CPU E7500](https://www.intel.com/content/www/us/en/products/sku/36503/intel-core2-duo-processor-e7500-3m-cache-2-93-ghz-1066-mhz-fsb/specifications.html)
+   - Motherboard: [Asus P5G41T-M LX](https://www.asus.com/supportonly/p5g41tm_lx/helpdesk_knowledge/)
+   - Memory: 2x2GB (Forgot)
+   - Storage 1: [120GB SanDisk SSD PLUS](https://www.westerndigital.com/products/internal-drives/sandisk-ssd-plus-sata-iii-ssd)
+   - Storage 2: N/A
+   - GPU: N/A
+   - PSU: Unknown
+   - Case: [Enlight Flash White Edition](https://enlight-indonesia.com/product/enlight-flash-white-edition/)
 - Hosting: [Jagoan Hosting](https://jagoanhosting.com/)
 - Editor: [Visual Studio Code](https://code.visualstudio.com/)
 - Static site generator: [Hugo](https://gohugo.io/)
