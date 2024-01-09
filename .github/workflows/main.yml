@@ -40,7 +40,7 @@ jobs:
     steps:
       -
         name: Creating proxy
-        uses: wingate/github-action@v1
+        uses: twingate/github-action@v1
         with:
           service-key: ${{ secrets.TWINGATE_KEY }}
       -
