@@ -45,11 +45,14 @@ jobs:
           service-key: ${{ secrets.TWINGATE_KEY }}
       -
         name: Connecting to server & Start deploy
-        uses: appleboy/ssh-action@v0.1.2
+        uses: appleboy/ssh-action@v0.1.4
         with:
           host: ${{secrets.SSH_HOST}}
           port: ${{ secrets.SSH_PORT}}
           username: ${{ secrets.SSH_USERNAME }}
-          key: ${{ secrets.SSH_KEY }}
+          password: ${{ secrets.SSH_PASSWORD }}
           script: |
-            "./deploy/rifqisah.sh"
+            cd apps/projects/rifqisah
+            docker compose down web
+            docker compose pull web
+            docker compose up -d web
