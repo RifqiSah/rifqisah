@@ -1,0 +1,16 @@
+/* Colors - Light Mode */
+:root {
+  --background: hsl(0, 0%, 100%);
+  --secondary: hsl(0, 0%, 96%);
+  --border: hsl(0, 0%, 80%);
+  --text-primary: hsl(0, 0%, 10%);
+  --text-secondary: hsl(0, 0%, 20%);
+  --text-muted: hsl(0, 0%, 40%);
+  --portfolio-accent: hsl(209, 100%, 40%);
+  --portfolio-accent-hover: hsl(202, 100%, 43%);
+  --link-color : purple;
+
+  --font-mono: "Geist Mono", monospace;;
+
+  --transition: all 0.2s ease-out;
+}
